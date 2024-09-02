@@ -1,0 +1,1038 @@
+fileFormatVersion: 2
+guid: d92a005f9abda4b4997b97018bfb7fbd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Skeleton Archer_Frame_0
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 63
+      width: 21
+      height: 22
+    spriteID: f3f33a4a6e3bdc74da3da243e69dacaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 63}
+  - name: Skeleton Archer_Frame_14
+    originalName: 
+    pivot: {x: 0.4210527, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 124
+      width: 19
+      height: 22
+    spriteID: a93fca09cdb17d74f8345448eba4af5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 124}
+  - name: Skeleton Archer_Frame_15
+    originalName: 
+    pivot: {x: 0.4210527, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 124
+      width: 19
+      height: 22
+    spriteID: ad8855e78ee92c746ac94ca98934ce78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 124}
+  - name: Skeleton Archer_Frame_16
+    originalName: 
+    pivot: {x: 0.4210527, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 124
+      width: 19
+      height: 22
+    spriteID: a7dba4a55abb9ed4eb5b41b85d78aa85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 124}
+  - name: Skeleton Archer_Frame_17
+    originalName: 
+    pivot: {x: 0.30769235, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 33
+      width: 26
+      height: 22
+    spriteID: 6626c02af41b77c40a4a4f64945b63d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 33}
+  - name: Skeleton Archer_Frame_18
+    originalName: 
+    pivot: {x: 0.34782612, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 33
+      width: 23
+      height: 22
+    spriteID: 34d2caa18cd400f44a1ba1860d39e43b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 33}
+  - name: Skeleton Archer_Frame_19
+    originalName: 
+    pivot: {x: 0.36363643, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 63
+      width: 22
+      height: 21
+    spriteID: fb45e4450d8c73d4d9ce2ff6b7713bbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 63}
+  - name: Skeleton Archer_Frame_20
+    originalName: 
+    pivot: {x: 0.22857147, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 35
+      height: 21
+    spriteID: 8eb65093336943142b6a4b8e4b66100b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Skeleton Archer_Frame_21
+    originalName: 
+    pivot: {x: 0.36363643, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 33
+      width: 22
+      height: 22
+    spriteID: b52c68c5a65f12348867098c43513829
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 33}
+  - name: Skeleton Archer_Frame_22
+    originalName: 
+    pivot: {x: 0.4210527, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 124
+      width: 19
+      height: 22
+    spriteID: 69ebb89275005e440a94fa330c5679aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 124}
+  - name: Skeleton Archer_Frame_24
+    originalName: 
+    pivot: {x: 0.42857143, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 63
+      width: 21
+      height: 22
+    spriteID: 980ce86a5f494124ba3977adb11004c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 63}
+  - name: Skeleton Archer_Frame_25
+    originalName: 
+    pivot: {x: 0.42857143, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 33
+      width: 21
+      height: 22
+    spriteID: 04e3c9630dff61d4f93db1e9abbc5884
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 33}
+  - name: Skeleton Archer_Frame_26
+    originalName: 
+    pivot: {x: 0.42857143, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 33
+      width: 21
+      height: 22
+    spriteID: cc5aa1eefdf6d6a4aab8053bf51f4125
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 33}
+  - name: Skeleton Archer_Frame_27
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 33
+      width: 21
+      height: 22
+    spriteID: 062ce572868387644a51bd56b87078a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 33}
+  - name: Skeleton Archer_Frame_28
+    originalName: 
+    pivot: {x: 0.29166663, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 63
+      width: 24
+      height: 20
+    spriteID: 5fc706fdb00db4540a50512a010672c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 63}
+  - name: Skeleton Archer_Frame_29
+    originalName: 
+    pivot: {x: 0.31818178, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 124
+      width: 22
+      height: 16
+    spriteID: 69a1d328cf870774793b821c6aee1cb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 124}
+  - name: Skeleton Archer_Frame_30
+    originalName: 
+    pivot: {x: 0.31818178, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 124
+      width: 22
+      height: 16
+    spriteID: 57b4260182154034e94fe9e8cf47e687
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 124}
+  - name: Skeleton Archer_Frame_1
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 33
+      width: 21
+      height: 22
+    spriteID: 2d0aad547f6f54b4eb4162a29b6e0b64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 33}
+  - name: Skeleton Archer_Frame_2
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 63
+      width: 21
+      height: 23
+    spriteID: 6d739dff1a351344195e4c5df9f2831f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 63}
+  - name: Skeleton Archer_Frame_3
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 63
+      width: 21
+      height: 23
+    spriteID: ab8d68a65913c724999caa11a4e03eb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 63}
+  - name: Skeleton Archer_Frame_4
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 33
+      width: 21
+      height: 22
+    spriteID: e3aa7dab734410945a431bdc8581f70f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 33}
+  - name: Skeleton Archer_Frame_5
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 94
+      width: 21
+      height: 22
+    spriteID: 0b746449e26586141831dce937deeb61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 94}
+  - name: Skeleton Archer_Frame_6
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 94
+      width: 21
+      height: 22
+    spriteID: 8b117ed9805cc134390cfb8fdd7592b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 94}
+  - name: Skeleton Archer_Frame_7
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 63
+      width: 21
+      height: 23
+    spriteID: af0f9e299e2f6f34480c7637f0fe632c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 63}
+  - name: Skeleton Archer_Frame_8
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 94
+      width: 21
+      height: 22
+    spriteID: f8b55259b9749ce4ea801040c98f8640
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 94}
+  - name: Skeleton Archer_Frame_9
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 94
+      width: 21
+      height: 21
+    spriteID: e828e20bd75366e4e994131ca244a1b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 94}
+  - name: Skeleton Archer_Frame_10
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 94
+      width: 21
+      height: 22
+    spriteID: 9d71e2500f44bef459b10cf34fd55b1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 94}
+  - name: Skeleton Archer_Frame_11
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 63
+      width: 21
+      height: 23
+    spriteID: 49c6dfe6001fe2d4eb6fb348b3655c24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 63}
+  - name: Skeleton Archer_Frame_12
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 94
+      width: 21
+      height: 22
+    spriteID: e9545a3997128b646b9fca91dbb79293
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 94}
+  - name: Skeleton Archer_Frame_13
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 94
+      width: 21
+      height: 21
+    spriteID: f9ec607655ca91642b526941180697e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 94}
+  - name: Skeleton Archer_Frame_23
+    originalName: 
+    pivot: {x: 0.42857143, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 94
+      width: 21
+      height: 22
+    spriteID: 0c4cba0454ce8a1409cdc288fdf709be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 94}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -266983172
+    name: Skeleton Archer
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Skeleton Archer_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 22
+      spriteId: f3f33a4a6e3bdc74da3da243e69dacaa
+    - name: Skeleton Archer_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 19
+        height: 22
+      spriteId: a93fca09cdb17d74f8345448eba4af5e
+    - name: Skeleton Archer_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 19
+        height: 22
+      spriteId: ad8855e78ee92c746ac94ca98934ce78
+    - name: Skeleton Archer_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 19
+        height: 22
+      spriteId: a7dba4a55abb9ed4eb5b41b85d78aa85
+    - name: Skeleton Archer_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 26
+        height: 22
+      spriteId: 6626c02af41b77c40a4a4f64945b63d2
+    - name: Skeleton Archer_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 23
+        height: 22
+      spriteId: 34d2caa18cd400f44a1ba1860d39e43b
+    - name: Skeleton Archer_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 22
+        height: 21
+      spriteId: fb45e4450d8c73d4d9ce2ff6b7713bbc
+    - name: Skeleton Archer_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 35
+        height: 21
+      spriteId: 8eb65093336943142b6a4b8e4b66100b
+    - name: Skeleton Archer_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 22
+        height: 22
+      spriteId: b52c68c5a65f12348867098c43513829
+    - name: Skeleton Archer_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 19
+        height: 22
+      spriteId: 69ebb89275005e440a94fa330c5679aa
+    - name: Skeleton Archer_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 21
+        height: 22
+      spriteId: 980ce86a5f494124ba3977adb11004c2
+    - name: Skeleton Archer_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 21
+        height: 22
+      spriteId: 04e3c9630dff61d4f93db1e9abbc5884
+    - name: Skeleton Archer_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 21
+        height: 22
+      spriteId: cc5aa1eefdf6d6a4aab8053bf51f4125
+    - name: Skeleton Archer_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 22
+      spriteId: 062ce572868387644a51bd56b87078a0
+    - name: Skeleton Archer_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 24
+        height: 20
+      spriteId: 5fc706fdb00db4540a50512a010672c3
+    - name: Skeleton Archer_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 22
+        height: 16
+      spriteId: 69a1d328cf870774793b821c6aee1cb5
+    - name: Skeleton Archer_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 22
+        height: 16
+      spriteId: 57b4260182154034e94fe9e8cf47e687
+    - name: Skeleton Archer_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 22
+      spriteId: 2d0aad547f6f54b4eb4162a29b6e0b64
+    - name: Skeleton Archer_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 23
+      spriteId: 6d739dff1a351344195e4c5df9f2831f
+    - name: Skeleton Archer_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 23
+      spriteId: ab8d68a65913c724999caa11a4e03eb5
+    - name: Skeleton Archer_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 22
+      spriteId: e3aa7dab734410945a431bdc8581f70f
+    - name: Skeleton Archer_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 22
+      spriteId: 0b746449e26586141831dce937deeb61
+    - name: Skeleton Archer_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 22
+      spriteId: 8b117ed9805cc134390cfb8fdd7592b1
+    - name: Skeleton Archer_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 23
+      spriteId: af0f9e299e2f6f34480c7637f0fe632c
+    - name: Skeleton Archer_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 22
+      spriteId: f8b55259b9749ce4ea801040c98f8640
+    - name: Skeleton Archer_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 21
+      spriteId: e828e20bd75366e4e994131ca244a1b6
+    - name: Skeleton Archer_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 22
+      spriteId: 9d71e2500f44bef459b10cf34fd55b1b
+    - name: Skeleton Archer_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 23
+      spriteId: 49c6dfe6001fe2d4eb6fb348b3655c24
+    - name: Skeleton Archer_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 22
+      spriteId: e9545a3997128b646b9fca91dbb79293
+    - name: Skeleton Archer_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 21
+      spriteId: f9ec607655ca91642b526941180697e6
+    - name: Skeleton Archer_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 21
+        height: 22
+      spriteId: 0c4cba0454ce8a1409cdc288fdf709be
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

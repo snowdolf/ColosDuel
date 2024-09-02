@@ -1,0 +1,1705 @@
+fileFormatVersion: 2
+guid: 1159a5ad6ae73104c8fc517d245412c4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Knight_Frame_0
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 69
+      width: 26
+      height: 21
+    spriteID: 108066675a56c8b46ac3fe227c0f87ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 69}
+  - name: Knight_Frame_42
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 98
+      width: 26
+      height: 21
+    spriteID: af599244ad58b9c4f9080cb1155f8e72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 98}
+  - name: Knight_Frame_46
+    originalName: 
+    pivot: {x: 0.5500001, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 326
+      width: 20
+      height: 23
+    spriteID: 0ed3a47217e0ba74bbac3bceb9950554
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 326}
+  - name: Knight_Frame_50
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 127
+      width: 26
+      height: 21
+    spriteID: 680435c1749e4bb4daaeb2cc63767916
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 127}
+  - name: Knight_Frame_51
+    originalName: 
+    pivot: {x: 0.34615386, y: -2.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 299
+      width: 26
+      height: 19
+    spriteID: cb5b7c11ed6daaf41a35176ac8ed8418
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 299}
+  - name: Knight_Frame_52
+    originalName: 
+    pivot: {x: 0.26086956, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 4
+      width: 23
+      height: 16
+    spriteID: 088ba97a1e65c9c4c9010742bef51e5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 4}
+  - name: Knight_Frame_53
+    originalName: 
+    pivot: {x: 0.25, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 492
+      width: 24
+      height: 16
+    spriteID: f00a3013e8407e6478d98b6ddf695917
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 492}
+  - name: Knight_Frame_1
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 156
+      width: 26
+      height: 21
+    spriteID: 1c79847740c25b94c8c8b528c7748589
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 156}
+  - name: Knight_Frame_2
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 402
+      width: 26
+      height: 22
+    spriteID: 019c8373865dcd44493ee30243dbc011
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 402}
+  - name: Knight_Frame_3
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 432
+      width: 26
+      height: 22
+    spriteID: 16371a13fc1d8934fb32e5525b2d36ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 432}
+  - name: Knight_Frame_4
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 185
+      width: 26
+      height: 21
+    spriteID: 000ef6e793840074f8e6ae569e39050c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 185}
+  - name: Knight_Frame_5
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 214
+      width: 26
+      height: 21
+    spriteID: e490f79f3fa1a6a4b80951db61b8f2fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 214}
+  - name: Knight_Frame_6
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 243
+      width: 26
+      height: 21
+    spriteID: 27d6e5b15827cdf49b25a0f7e133a6ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 243}
+  - name: Knight_Frame_7
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 462
+      width: 26
+      height: 22
+    spriteID: 9c2eeae47aa4efa42bf9f8d428972394
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 462}
+  - name: Knight_Frame_8
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 272
+      width: 26
+      height: 21
+    spriteID: d79ba4d82e0d5464a9828b8637a02346
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 272}
+  - name: Knight_Frame_9
+    originalName: 
+    pivot: {x: 0.34615386, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 446
+      width: 26
+      height: 20
+    spriteID: 52a379709eb668e40ada14c5eb1968f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 446}
+  - name: Knight_Frame_10
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 301
+      width: 26
+      height: 21
+    spriteID: 328a55ecc98f2164097006d024099946
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 301}
+  - name: Knight_Frame_11
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 4
+      width: 26
+      height: 22
+    spriteID: cb58b301462168d49961a01a8d140332
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 4}
+  - name: Knight_Frame_12
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 330
+      width: 26
+      height: 21
+    spriteID: a3643d1a0e21f8543a4f3d67890bc0de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 330}
+  - name: Knight_Frame_13
+    originalName: 
+    pivot: {x: 0.34615386, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 474
+      width: 26
+      height: 20
+    spriteID: 2f8b6d5eb30790d4a98cdb8181060916
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 474}
+  - name: Knight_Frame_14
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 359
+      width: 26
+      height: 21
+    spriteID: 382d21d485e1ecf4b807a742c4a2e923
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 359}
+  - name: Knight_Frame_15
+    originalName: 
+    pivot: {x: 0.47368422, y: -1.4814814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 32
+      width: 19
+      height: 27
+    spriteID: 0097bee43cd2279489917e906e31e3ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 32}
+  - name: Knight_Frame_16
+    originalName: 
+    pivot: {x: 0.45000002, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 154
+      width: 20
+      height: 25
+    spriteID: 8fb113557493ff54a85fa0c64199c048
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 154}
+  - name: Knight_Frame_17
+    originalName: 
+    pivot: {x: 0.2758621, y: -1.4814814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 270
+      width: 29
+      height: 27
+    spriteID: 075ca22b18d868c40905734d437962be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 270}
+  - name: Knight_Frame_18
+    originalName: 
+    pivot: {x: 0.2758621, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 334
+      width: 29
+      height: 25
+    spriteID: 6fbdc35b53ffd7646998f218268bf98a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 334}
+  - name: Knight_Frame_19
+    originalName: 
+    pivot: {x: 0.30769235, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 4
+      width: 26
+      height: 20
+    spriteID: b4181d2cd377c214a9929db7518c2c14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 4}
+  - name: Knight_Frame_20
+    originalName: 
+    pivot: {x: 0.32000005, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 187
+      width: 25
+      height: 20
+    spriteID: 2b716d3d93a499747b0542fd087c7e90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 187}
+  - name: Knight_Frame_21
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 388
+      width: 26
+      height: 21
+    spriteID: 3df5a0af2d2fa40499ffae40eb10ea70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 388}
+  - name: Knight_Frame_22
+    originalName: 
+    pivot: {x: 0.65217394, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 357
+      width: 23
+      height: 20
+    spriteID: ca67360ddab083f4c95219b671e0640f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 357}
+  - name: Knight_Frame_23
+    originalName: 
+    pivot: {x: 0.67999995, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 215
+      width: 25
+      height: 20
+    spriteID: 66c480e45bdb8bb44b82f40ad4e0469d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 215}
+  - name: Knight_Frame_24
+    originalName: 
+    pivot: {x: 0.23529415, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 164
+      width: 34
+      height: 30
+    spriteID: d4eeef903d7777f48bd99bc61bef37a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 164}
+  - name: Knight_Frame_25
+    originalName: 
+    pivot: {x: 0.4444445, y: -1.6666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 4
+      width: 18
+      height: 24
+    spriteID: b241219352958ba458b9497234cbc156
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 4}
+  - name: Knight_Frame_26
+    originalName: 
+    pivot: {x: 0.4444445, y: -1.6666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 36
+      width: 18
+      height: 24
+    spriteID: 94bbf036d3566464b8c2df8a2c49a9f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 36}
+  - name: Knight_Frame_27
+    originalName: 
+    pivot: {x: 0.38095245, y: -1.4814814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 34
+      width: 21
+      height: 27
+    spriteID: 07a3961674f072d4fb0bd74c45789b2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 34}
+  - name: Knight_Frame_28
+    originalName: 
+    pivot: {x: 0.19999999, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 125
+      width: 35
+      height: 31
+    spriteID: d0056a8d9147beb4f9ac2b313c5de0a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 125}
+  - name: Knight_Frame_29
+    originalName: 
+    pivot: {x: 0.19999999, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 305
+      width: 35
+      height: 21
+    spriteID: 71f0a98da122ea74ca52f2ce89b20389
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 305}
+  - name: Knight_Frame_30
+    originalName: 
+    pivot: {x: 0.27999997, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 243
+      width: 25
+      height: 20
+    spriteID: c184b9c5f9975b74d952e2a2a362656e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 243}
+  - name: Knight_Frame_31
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 417
+      width: 26
+      height: 21
+    spriteID: 76d36495bc0e55648a1364cb970e0f9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 417}
+  - name: Knight_Frame_32
+    originalName: 
+    pivot: {x: 0.5294118, y: -1.5384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 478
+      width: 17
+      height: 26
+    spriteID: 0a5d4ca263f3ede49ac179ae21579c36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 478}
+  - name: Knight_Frame_33
+    originalName: 
+    pivot: {x: 0.5294118, y: -1.5384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 4
+      width: 17
+      height: 26
+    spriteID: 63c6357c48bb7dc44ab5a676394312c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 4}
+  - name: Knight_Frame_34
+    originalName: 
+    pivot: {x: 0.5294118, y: -1.5384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 38
+      width: 17
+      height: 26
+    spriteID: 202bfb8a40a6496418f1226bab269c3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 38}
+  - name: Knight_Frame_35
+    originalName: 
+    pivot: {x: 0.34615386, y: -1.4814814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 367
+      width: 26
+      height: 27
+    spriteID: 9b613bf65c375cd4ab465275dfea0080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 367}
+  - name: Knight_Frame_36
+    originalName: 
+    pivot: {x: 0.375, y: -1.5384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 236
+      width: 32
+      height: 26
+    spriteID: 5cbf9a6f9de614e428201fc1bde2bc1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 236}
+  - name: Knight_Frame_37
+    originalName: 
+    pivot: {x: 0.41025642, y: -1.5384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 202
+      width: 39
+      height: 26
+    spriteID: 8d41389a9676b4643ac18a9389dcda0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 202}
+  - name: Knight_Frame_38
+    originalName: 
+    pivot: {x: 0.14583331, y: -1.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 46
+      width: 48
+      height: 34
+    spriteID: b436076ecfb43d647b2df8af49d5f394
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 46}
+  - name: Knight_Frame_39
+    originalName: 
+    pivot: {x: 0.14285713, y: -1.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 49
+      height: 34
+    spriteID: affbf37f24111e34ca66f555119d91da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Knight_Frame_40
+    originalName: 
+    pivot: {x: 0.14285713, y: -1.3793104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 88
+      width: 49
+      height: 29
+    spriteID: 1ade57911e651ec4198869548e735183
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 88}
+  - name: Knight_Frame_41
+    originalName: 
+    pivot: {x: 0.27999997, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 271
+      width: 25
+      height: 20
+    spriteID: 791cf599e31e8e34bb45dcd573e8d3fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 271}
+  - name: Knight_Frame_43
+    originalName: 
+    pivot: {x: 0.375, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 67
+      width: 24
+      height: 21
+    spriteID: 03c977a33445f2b4385776182418ee9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 67}
+  - name: Knight_Frame_44
+    originalName: 
+    pivot: {x: 0.375, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 96
+      width: 24
+      height: 21
+    spriteID: d64b8ac59c907aa4880075f493dded3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 96}
+  - name: Knight_Frame_45
+    originalName: 
+    pivot: {x: 0.375, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 125
+      width: 24
+      height: 21
+    spriteID: 6e15813cc3bd41148a9d0b4910dd5ec6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 125}
+  - name: Knight_Frame_47
+    originalName: 
+    pivot: {x: 0.5500001, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 385
+      width: 20
+      height: 23
+    spriteID: aba20fd5a8062ed48a104f2cb7554518
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 385}
+  - name: Knight_Frame_48
+    originalName: 
+    pivot: {x: 0.5500001, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 416
+      width: 20
+      height: 23
+    spriteID: 36affc227331ee942b0e403557451043
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 416}
+  - name: Knight_Frame_49
+    originalName: 
+    pivot: {x: 0.5500001, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 447
+      width: 20
+      height: 23
+    spriteID: d814e583e5786d44a8f16bb44ee0ad9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 447}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 122679483
+    name: Knight
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Knight_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 108066675a56c8b46ac3fe227c0f87ff
+    - name: Knight_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: af599244ad58b9c4f9080cb1155f8e72
+    - name: Knight_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 20
+        height: 23
+      spriteId: 0ed3a47217e0ba74bbac3bceb9950554
+    - name: Knight_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 680435c1749e4bb4daaeb2cc63767916
+    - name: Knight_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 19
+      spriteId: cb5b7c11ed6daaf41a35176ac8ed8418
+    - name: Knight_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 44
+        y: 40
+        width: 23
+        height: 16
+      spriteId: 088ba97a1e65c9c4c9010742bef51e5d
+    - name: Knight_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 44
+        y: 40
+        width: 24
+        height: 16
+      spriteId: f00a3013e8407e6478d98b6ddf695917
+    - name: Knight_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 1c79847740c25b94c8c8b528c7748589
+    - name: Knight_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 22
+      spriteId: 019c8373865dcd44493ee30243dbc011
+    - name: Knight_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 22
+      spriteId: 16371a13fc1d8934fb32e5525b2d36ba
+    - name: Knight_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 000ef6e793840074f8e6ae569e39050c
+    - name: Knight_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: e490f79f3fa1a6a4b80951db61b8f2fe
+    - name: Knight_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 27d6e5b15827cdf49b25a0f7e133a6ca
+    - name: Knight_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 22
+      spriteId: 9c2eeae47aa4efa42bf9f8d428972394
+    - name: Knight_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: d79ba4d82e0d5464a9828b8637a02346
+    - name: Knight_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 20
+      spriteId: 52a379709eb668e40ada14c5eb1968f3
+    - name: Knight_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 328a55ecc98f2164097006d024099946
+    - name: Knight_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 22
+      spriteId: cb58b301462168d49961a01a8d140332
+    - name: Knight_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: a3643d1a0e21f8543a4f3d67890bc0de
+    - name: Knight_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 20
+      spriteId: 2f8b6d5eb30790d4a98cdb8181060916
+    - name: Knight_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 382d21d485e1ecf4b807a742c4a2e923
+    - name: Knight_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 19
+        height: 27
+      spriteId: 0097bee43cd2279489917e906e31e3ec
+    - name: Knight_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 20
+        height: 25
+      spriteId: 8fb113557493ff54a85fa0c64199c048
+    - name: Knight_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 29
+        height: 27
+      spriteId: 075ca22b18d868c40905734d437962be
+    - name: Knight_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 29
+        height: 25
+      spriteId: 6fbdc35b53ffd7646998f218268bf98a
+    - name: Knight_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 26
+        height: 20
+      spriteId: b4181d2cd377c214a9929db7518c2c14
+    - name: Knight_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 25
+        height: 20
+      spriteId: 2b716d3d93a499747b0542fd087c7e90
+    - name: Knight_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 3df5a0af2d2fa40499ffae40eb10ea70
+    - name: Knight_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 40
+        width: 23
+        height: 20
+      spriteId: ca67360ddab083f4c95219b671e0640f
+    - name: Knight_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 40
+        width: 25
+        height: 20
+      spriteId: 66c480e45bdb8bb44b82f40ad4e0469d
+    - name: Knight_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 34
+        height: 30
+      spriteId: d4eeef903d7777f48bd99bc61bef37a6
+    - name: Knight_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 18
+        height: 24
+      spriteId: b241219352958ba458b9497234cbc156
+    - name: Knight_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 18
+        height: 24
+      spriteId: 94bbf036d3566464b8c2df8a2c49a9f3
+    - name: Knight_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 21
+        height: 27
+      spriteId: 07a3961674f072d4fb0bd74c45789b2d
+    - name: Knight_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 35
+        height: 31
+      spriteId: d0056a8d9147beb4f9ac2b313c5de0a3
+    - name: Knight_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 35
+        height: 21
+      spriteId: 71f0a98da122ea74ca52f2ce89b20389
+    - name: Knight_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 25
+        height: 20
+      spriteId: c184b9c5f9975b74d952e2a2a362656e
+    - name: Knight_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 76d36495bc0e55648a1364cb970e0f9c
+    - name: Knight_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 17
+        height: 26
+      spriteId: 0a5d4ca263f3ede49ac179ae21579c36
+    - name: Knight_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 17
+        height: 26
+      spriteId: 63c6357c48bb7dc44ab5a676394312c9
+    - name: Knight_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 17
+        height: 26
+      spriteId: 202bfb8a40a6496418f1226bab269c3d
+    - name: Knight_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 26
+        height: 27
+      spriteId: 9b613bf65c375cd4ab465275dfea0080
+    - name: Knight_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 38
+        y: 40
+        width: 32
+        height: 26
+      spriteId: 5cbf9a6f9de614e428201fc1bde2bc1f
+    - name: Knight_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 40
+        width: 39
+        height: 26
+      spriteId: 8d41389a9676b4643ac18a9389dcda0f
+    - name: Knight_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 48
+        height: 34
+      spriteId: b436076ecfb43d647b2df8af49d5f394
+    - name: Knight_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 49
+        height: 34
+      spriteId: affbf37f24111e34ca66f555119d91da
+    - name: Knight_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 49
+        height: 29
+      spriteId: 1ade57911e651ec4198869548e735183
+    - name: Knight_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 25
+        height: 20
+      spriteId: 791cf599e31e8e34bb45dcd573e8d3fe
+    - name: Knight_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 03c977a33445f2b4385776182418ee9b
+    - name: Knight_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 24
+        height: 21
+      spriteId: d64b8ac59c907aa4880075f493dded3c
+    - name: Knight_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 6e15813cc3bd41148a9d0b4910dd5ec6
+    - name: Knight_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 20
+        height: 23
+      spriteId: aba20fd5a8062ed48a104f2cb7554518
+    - name: Knight_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 20
+        height: 23
+      spriteId: 36affc227331ee942b0e403557451043
+    - name: Knight_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 20
+        height: 23
+      spriteId: d814e583e5786d44a8f16bb44ee0ad9a
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}
